@@ -1,0 +1,1446 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "slug": "fresh-tomato-local-1kg",
+      "title": "Fresh Tomato Local 1kg",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season.",
+        "catimage": "../images/cate-veg.png"
+      },
+      "rating": 4.6,
+      "shortDescription": "Juicy red tomatoes perfect for salads and cooking.",
+      "longDescription": "Locally sourced tomatoes full of flavor and freshness.",
+      "quantity": 1,
+      "featured": true,
+      "color": "red",
+      "tags": [
+        {
+        "name": "Tomato",
+        "slug": "001",
+        "tagImage": "../images/product1.png"
+        }
+      ],
+      "thumbnailImage": "../images/product1.png",
+      "gallery": [
+        "../images/tomato.jpg",
+        "../images/tomato.jpg",
+        "../images/tomato.jpg",
+        "../images/tomato.jpg",
+        "../images/tomato.jpg"
+      ],
+      "price": {
+        "regular": 59,
+        "sale": 49
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Excellent quality, very fresh and tasty!"
+    },
+    {
+      "id": "002",
+      "title": "Fresh Orange Local 1kg",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate-fruit.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.7,
+      "shortDescription": "Sweet and tangy oranges rich in Vitamin C.",
+      "longDescription": "Enjoy the freshness of oranges packed with nutrients.",
+      "quantity": 1,
+      "featured": true,
+      "color": "Orange",
+      "tags": [
+        {
+          "name": "Orange",
+          "slug": "002",
+          "tagImage": "../images/product2.png"
+        }
+      ],
+      "thumbnailImage": "../images/product2.png",
+      "gallery": [
+        "../images/org.jpg",
+        "../images/org.jpg",
+        "../images/org.jpg",
+        "../images/org.jpg",
+        "../images/org.jpg"
+      ],
+      "price": {
+        "regular": 159,
+        "sale": 149
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Great taste and very juicy."
+    },
+    {
+      "id": "003",
+      "title": "Fresh Potato Local 1kg",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.3,
+      "shortDescription": "Farm-fresh potatoes for your kitchen needs.",
+      "longDescription": "Versatile and full of nutrients for everyday cooking.",
+      "quantity": 1,
+      "featured": false,
+      "color": "brown",
+      "tags": [
+        {
+          "name": "Potato",
+          "slug": "003",
+          "tagImage": "../images/product3.png"
+        }
+      ],
+      "thumbnailImage": "../images/product3.png",
+      "gallery": [
+        "../images/pota.jpg",
+        "../images/pota.jpg",
+        "../images/pota.jpg",
+        "../images/pota.jpg",
+        "../images/pota.jpg"
+      ],
+      "price": {
+        "regular": 39,
+        "sale": 29
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Fresh and delivered on time."
+    },
+    {
+      "id": "004",
+      "title": "Fresh Mango Local 1kg",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.5,
+      "shortDescription": "Sweet and aromatic mangoes.",
+      "longDescription": "Perfect for juices, smoothies, or just as a snack.",
+      "quantity": 1,
+      "featured": true,
+      "color": "yellow",
+      "tags": [
+        {
+        "name": "Mango",
+        "slug": "004",
+        "tagImage": "../images/product4.png"
+        },
+        {
+          "name": "Mango",
+          "slug": "004",
+          "tagImage": "https://example.com/images/tags/green.png"
+        }
+      ],
+      "thumbnailImage": "../images/product4.png",
+      "gallery": [
+        "../images/man.jpg",
+        "../images/man.jpg",
+        "../images/man.jpg",
+        "../images/man.jpg",
+        "../images/man.jpg"
+      ],
+      "price": {
+        "regular": 99,
+        "sale": 89
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Perfect for my recipes, good quality."
+    },
+    {
+      "id": "005",
+      "title": "Dragon Fruit Local 1kg",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.8,
+      "shortDescription": "Exotic dragon fruit with a unique taste.",
+      "longDescription": "Packed with antioxidants and fiber for a healthy diet.",
+      "quantity": 1,
+      "featured": true,
+      "color": "pink",
+      "tags": [
+        {
+          "name": "Dragon",
+          "slug": "005",
+          "tagImage": "../images/product5.png"
+        }
+      ],
+      "thumbnailImage": "../images/product5.png",
+      "gallery": [
+        "../images/dra.jpg",
+        "../images/dra.jpg",
+        "../images/dra.jpg",
+        "../images/dra.jpg",
+        "../images/dra.jpg"
+      ],
+      "price": {
+        "regular": 309,
+        "sale": 299
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Absolutely loved it, worth the price."
+    },
+    {
+      "id": "006",
+      "title": "Fresh Carrot Local 1kg",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.4,
+      "shortDescription": "Crunchy carrots rich in Vitamin A.",
+      "longDescription": "Perfect for salads, cooking, or fresh snacking.",
+      "quantity": 1,
+      "featured": false,
+      "color": "orange",
+      "tags": [
+        {
+        "name": "Carrot",
+        "slug": "006",
+        "tagImage": "../images/product6.png"
+        }
+      ],
+      "thumbnailImage": "../images/product6.png",
+      "gallery": [
+        "../images/car.jpg",
+        "../images/car.jpg",
+        "../images/car.jpg",
+        "../images/car.jpg",
+        "../images/car.jpg"
+      ],
+      "price": {
+        "regular": 49,
+        "sale": 39
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Crisp and flavorful, will buy again."
+    },
+    {
+      "id": "007",
+      "title": "Fresh Brinjal Local 1kg",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.2,
+      "shortDescription": "Purple brinjal with smooth texture.",
+      "longDescription": "Ideal for curries, fries, and more.",
+      "quantity": 1,
+      "featured": false,
+      "color": "purple",
+      "tags": [
+        {
+        "name": "Brinjal",
+        "slug": "007",
+        "tagImage": "./images/product7.png"
+        }
+      ],
+      "thumbnailImage": "../images/product7.png",
+      "gallery": [
+        "../images/bri.jpg",
+        "../images/bri.jpg",
+        "../images/bri.jpg",
+        "../images/bri.jpg",
+        "../images/bri.jpg"
+      ],
+      "price": {
+        "regular": 109,
+        "sale": 99
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Good quality but could be a bit fresher."
+    },
+    {
+      "id": "008",
+      "title": "Fresh Coconut Local 1/P",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.6,
+      "shortDescription": "Fresh coconut perfect for cooking and water.",
+      "longDescription": "Rich in flavor and natural sweetness.",
+      "quantity": 1,
+      "featured": false,
+      "color": "brown",
+      "tags": [
+        {
+        "name": "Coconut",
+        "slug": "008",
+        "tagImage": "../images/product8.png"
+        }
+      ],
+      "thumbnailImage": "../images/product8.png",
+      "gallery": [
+        "../images/coco.jpg",
+        "../images/coco.jpg",
+        "../images/coco.jpg",
+        "../images/coco.jpg",
+        "../images/coco.jpg"
+      ],
+      "price": {
+        "regular": 59,
+        "sale": 49
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Great value and quality combined."
+    },
+    {
+      "id": "009",
+      "title": "Fresh Green Chilli Local 250g",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.1,
+      "shortDescription": "Hot and spicy green chillies.",
+      "longDescription": "Add heat and flavor to your favorite dishes.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Chilli",
+        "slug": "009",
+        "tagImage": "../images/product9.png"
+        }
+      ],
+      "thumbnailImage": "../images/product9.png",
+      "gallery": [
+        "../images/chi.jpg",
+        "../images/chi.jpg",
+        "../images/chi.jpg",
+        "../images/chi.jpg",
+        "../images/chi.jpg"
+      ],
+      "price": {
+        "regular": 69,
+        "sale": 59
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Highly recommend, very fresh produce."
+    },
+    {
+      "id": "010",
+      "title": "Fresh Green Peas Local 500g",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.2,
+      "shortDescription": "Tender green peas full of protein.",
+      "longDescription": "Perfect for curries, fried rice, or salads.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Peas",
+        "slug": "010",
+        "tagImage": "../images/product10.png"
+        }
+      ],
+      "thumbnailImage": "../images/product10.png",
+      "gallery": [
+        "../images/pea.jpg",
+        "../images/pea.jpg",
+        "../images/pea.jpg",
+        "../images/pea.jpg",
+        "../images/pea.jpg"
+      ],
+      "price": {
+        "regular": 99,
+        "sale": 89
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Tastes great, family loved it."
+    },
+    {
+      "id": "011",
+      "title": "Fresh Coriander Local 200g",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.5,
+      "shortDescription": "Aromatic coriander leaves for garnishing.",
+      "longDescription": "Enhance flavors of any dish with fresh coriander.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Coriander",
+        "slug": "011",
+        "tagImage": "../images/product11.png"
+        }
+      ],
+      "thumbnailImage": "../images/product11.png",
+      "gallery": [
+        "../images/cori.jpg",
+        "../images/cori.jpg",
+        "../images/cori.jpg",
+        "../images/cori.jpg",
+        "../images/cori.jpg"
+      ],
+      "price": {
+        "regular": 29,
+        "sale": 19
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Very fresh and crunchy, good choice."
+    },
+    {
+      "id": "012",
+      "title": "Fresh Lemon Local 4pcs",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.3,
+      "shortDescription": "Juicy lemons rich in Vitamin C.",
+      "longDescription": "Perfect for juices, detox drinks, and garnishing.",
+      "quantity": 1,
+      "featured": false,
+      "color": "yellow",
+      "tags": [
+        {
+        "name": "Lemon",
+        "slug": "012",
+        "tagImage": "../images/product12.png"
+        }
+      ],
+      "thumbnailImage": "../images/product12.png",
+      "gallery": [
+        "../images/lemo.jpg",
+        "../images/lemo.jpg",
+        "../images/lemo.jpg",
+        "../images/lemo.jpg",
+        "../images/lemo.jpg"
+      ],
+      "price": {
+        "regular": 30,
+        "sale": 20
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Packed well, fresh and clean."
+    },
+    {
+      "id": "013",
+      "title": "Fresh Guava Local 1kg",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.4,
+      "shortDescription": "Sweet and crunchy guavas full of Vitamin C.",
+      "longDescription": "Farm-fresh guavas perfect for healthy snacks.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Guava",
+        "slug": "013",
+        "tagImage": "../images/product13.png"
+        }
+      ],
+      "thumbnailImage": "../images/product13.png",
+      "gallery": [
+        "../images/gua.jpg",
+        "../images/gua.jpg",
+        "../images/gua.jpg",
+        "../images/gua.jpg",
+        "../images/gua.jpg"
+      ],
+      "price": {
+        "regular": 89,
+        "sale": 79
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Sweet and flavorful, amazing quality."
+    },
+    {
+      "id": "014",
+      "title": "Fresh Papaya Local 1kg",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.1,
+      "shortDescription": "Delicious papayas rich in fiber.",
+      "longDescription": "Perfect for digestion and immunity boost.",
+      "quantity": 1,
+      "featured": false,
+      "color": "orange",
+      "tags": [
+        {
+        "name": "Papaya",
+        "slug": "014",
+        "tagImage": "../images/product14.png"
+        }
+      ],
+      "thumbnailImage": "../images/product14.png",
+      "gallery": [
+        "../images/papa.jpg",
+        "../images/papa.jpg",
+        "../images/papa.jpg",
+        "../images/papa.jpg",
+        "../images/papa.jpg"
+      ],
+      "price": {
+        "regular": 69,
+        "sale": 59
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Perfect ripeness, really enjoyed it."
+    },
+    {
+      "id": "015",
+      "title": "Fresh Pineapple Local 1pc",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.3,
+      "shortDescription": "Tangy pineapples for juices and desserts.",
+      "longDescription": "Packed with Vitamin C and antioxidants.",
+      "quantity": 1,
+      "featured": false,
+      "color": "yellow",
+      "tags": [
+        {
+        "name": "Pineapple",
+        "slug": "015",
+        "tagImage": "../images/product15.png"
+        }
+      ],
+      "thumbnailImage": "../images/product15.png",
+      "gallery": [
+        "../images/pine.jpg",
+        "../images/pine.jpg",
+        "../images/pine.jpg",
+        "../images/pine.jpg",
+        "../images/pine.jpg"
+      ],
+      "price": {
+        "regular": 79,
+        "sale": 69
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Healthy and fresh, exactly as described."
+    },
+    {
+      "id": "016",
+      "title": "Fresh Spinach Local 500g",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.2,
+      "shortDescription": "Green spinach loaded with iron.",
+      "longDescription": "Perfect for soups, salads, and curries.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Spinach",
+        "slug": "016",
+        "tagImage": "../images/product16.png"
+        }
+      ],
+      "thumbnailImage": "../images/product16.png",
+      "gallery": [
+        "../images/spi.jpg",
+        "../images/spi.jpg",
+        "../images/spi.jpg",
+        "../images/spi.jpg",
+        "../images/spi.jpg"
+      ],
+      "price": {
+        "regular": 40,
+        "sale": 30
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Consistent quality every time."
+    },
+    {
+      "id": "017",
+      "title": "Fresh Capsicum Local 500g",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.0,
+      "shortDescription": "Crunchy green capsicum.",
+      "longDescription": "Perfect for stir-fries, pizzas, and curries.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green",
+      "tags": [
+        {
+        "name": "Capsicum",
+        "slug": "017",
+        "tagImage": "../images/product17.png"
+        }
+      ],
+      "thumbnailImage": "../images/product17.png",
+      "gallery": [
+        "../images/cap.jpg",
+        "../images/cap.jpg",
+        "../images/cap.jpg",
+        "../images/cap.jpg",
+        "../images/cap.jpg"
+      ],
+      "price": {
+        "regular": 59,
+        "sale": 49
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Great purchase, fresh and tasty."
+    },
+    {
+      "id": "018",
+      "title": "Fresh Sweet Corn Local 1pc",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.5,
+      "shortDescription": "Juicy and sweet corn on the cob.",
+      "longDescription": "Ideal for snacks and salads.",
+      "quantity": 1,
+      "featured": false,
+      "color": "yellow",
+      "tags": [
+        {
+        "name": "Corn",
+        "slug": "018",
+        "tagImage": "../images/product18.png"
+        }
+      ],
+      "thumbnailImage": "../images/product18.png",
+      "gallery": [
+        "../images/cor.jpg",
+        "../images/cor.jpg",
+        "../images/cor.jpg",
+        "../images/cor.jpg",
+        "../images/cor.jpg"
+      ],
+      "price": {
+        "regular": 30,
+        "sale": 20
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Top-notch quality, very happy."
+    },
+    {
+      "id": "019",
+      "title": "Fresh Watermelon Local 1pc",
+      "category": {
+        "name": "Fruits",
+        "slug": "fruits",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.7,
+      "shortDescription": "Refreshing watermelons for summer.",
+      "longDescription": "Packed with hydration and sweetness.",
+      "quantity": 1,
+      "featured": false,
+      "color": "green-red",
+      "tags": [
+        {
+        "name": "Watermelon",
+        "slug": "019",
+        "tagImage": "../images/product19.png"
+        }
+      ],
+      "thumbnailImage": "../images/product19.png",
+      "gallery": [
+        "../images/wat.jpg",
+        "../images/wat.jpg",
+        "../images/wat.jpg",
+        "../images/wat.jpg",
+        "../images/wat.jpg"
+      ],
+      "price": {
+        "regular": 99,
+        "sale": 89
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/instagram.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Always fresh and reliable service."
+    },
+    {
+      "id": "020",
+      "title": "Fresh Beetroot Local 1kg",
+      "category": {
+        "name": "Vegetables",
+        "slug": "vegetables",
+        "catimage": "../images/cate.png",
+        "description": "Browse through our wide variety of farm-fresh vegetables, thoughtfully sourced and carefully categorized to make your shopping experience easier, faster, and fresher — ensuring you always find exactly what you need for every meal and every season."
+      },
+      "rating": 4.3,
+      "shortDescription": "Nutritious beetroot for salads and juices.",
+      "longDescription": "Rich in iron and folate for better health.",
+      "quantity": 1,
+      "featured": false,
+      "color": "red",
+      "tags": [
+        {
+        "name": "Beetroot",
+        "slug": "020",
+        "tagImage": "../images/product20.png"
+        }
+      ],
+      "thumbnailImage": "../images/product20.png",
+      "gallery": [
+        "../images/bee.jpg",
+        "../images/bee.jpg",
+        "../images/bee.jpg",
+        "../images/bee.jpg",
+        "../images/bee.jpg"
+      ],
+      "price": {
+        "regular": 50,
+        "sale": 40
+      },
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "../images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "../images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "../images/insta.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "../images/twitter.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "comment": "Loved it! Fresh and full of flavor."
+    },
+    {
+  "id": "021",
+  "title": "Fresh Mango Juice 1L",
+  "category": {
+    "name": "Fruit Juice",
+    "slug": "fruit-juice",
+    "catimage": "../images/cate-juice.png",
+    "description": "Explore our refreshing selection of natural fruit juices. Made from real fruits with no added preservatives, our juices are perfect for a healthy lifestyle and delightful refreshment."
+  },
+  "rating": 4.7,
+  "shortDescription": "Delicious and pulpy mango juice.",
+  "longDescription": "Made from ripe mangoes, rich in vitamins and antioxidants, perfect for summer refreshment.",
+  "quantity": 1,
+  "featured": false,
+  "color": "yellow",
+  "tags": [
+    {
+      "name": "Mango Juice",
+      "slug": "021",
+      "tagImage": "../images/product21.png"
+    }
+  ],
+  "thumbnailImage": "../images/product21.png",
+  "gallery": [
+    "../images/mango1.jpg",
+    "../images/mango2.jpg",
+    "../images/mango3.jpg",
+    "../images/mango4.jpg",
+    "../images/mango5.jpg"
+  ],
+  "price": {
+    "regular": 120,
+    "sale": 100
+  },
+  "socialShare": {
+    "social": [
+      {
+        "title": "Facebook",
+        "icon": "../images/facebook.png",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "title": "LinkedIn",
+        "icon": "../images/linkedin.png",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "title": "Instagram",
+        "icon": "../images/insta.png",
+        "url": "https://www.instagram.com"
+      },
+      {
+        "title": "Twitter",
+        "icon": "../images/twitter.png",
+        "url": "https://www.twitter.com"
+      }
+    ]
+  }
+},
+{
+  "id": "022",
+  "title": "Fresh Orange Juice 1L",
+  "category": {
+    "name": "Fruit Juice",
+    "slug": "fruit-juice",
+    "catimage": "../images/cate-juice.png",
+    "description": "Explore our refreshing selection of natural fruit juices. Made from real fruits with no added preservatives, our juices are perfect for a healthy lifestyle and delightful refreshment."
+  },
+  "rating": 4.5,
+  "shortDescription": "Refreshing orange juice with vitamin C.",
+  "longDescription": "Cold-pressed from juicy oranges, rich in nutrients and immune-boosting benefits.",
+  "quantity": 1,
+  "featured": false,
+  "color": "orange",
+  "tags": [
+    {
+      "name": "Orange Juice",
+      "slug": "022",
+      "tagImage": "../images/product22.png"
+    }
+  ],
+  "thumbnailImage": "../images/product22.png",
+  "gallery": [
+    "../images/orange1.jpg",
+    "../images/orange2.jpg",
+    "../images/orange3.jpg",
+    "../images/orange4.jpg",
+    "../images/orange5.jpg"
+  ],
+  "price": {
+    "regular": 110,
+    "sale": 95
+  },
+  "socialShare": {
+    "social": [
+      {
+        "title": "Facebook",
+        "icon": "../images/facebook.png",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "title": "LinkedIn",
+        "icon": "../images/linkedin.png",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "title": "Instagram",
+        "icon": "../images/insta.png",
+        "url": "https://www.instagram.com"
+      },
+      {
+        "title": "Twitter",
+        "icon": "../images/twitter.png",
+        "url": "https://www.twitter.com"
+      }
+    ]
+  }
+},
+{
+  "id": "023",
+  "title": "Fresh Pomegranate Juice 1L",
+  "category": {
+    "name": "Fruit Juice",
+    "slug": "fruit-juice",
+    "catimage": "../images/cate-juice.png",
+    "description": "Explore our refreshing selection of natural fruit juices. Made from real fruits with no added preservatives, our juices are perfect for a healthy lifestyle and delightful refreshment."
+  },
+  "rating": 4.6,
+  "shortDescription": "Sweet and tangy pomegranate juice.",
+  "longDescription": "Packed with antioxidants, our pomegranate juice supports heart health and immunity.",
+  "quantity": 1,
+  "featured": false,
+  "color": "deep red",
+  "tags": [
+    {
+      "name": "Pomegranate Juice",
+      "slug": "023",
+      "tagImage": "../images/product23.png"
+    }
+  ],
+  "thumbnailImage": "../images/product23.png",
+  "gallery": [
+    "../images/pom1.jpg",
+    "../images/pom2.jpg",
+    "../images/pom3.jpg",
+    "../images/pom4.jpg",
+    "../images/pom5.jpg"
+  ],
+  "price": {
+    "regular": 150,
+    "sale": 130
+  },
+  "socialShare": {
+    "social": [
+      {
+        "title": "Facebook",
+        "icon": "../images/facebook.png",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "title": "LinkedIn",
+        "icon": "../images/linkedin.png",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "title": "Instagram",
+        "icon": "../images/insta.png",
+        "url": "https://www.instagram.com"
+      },
+      {
+        "title": "Twitter",
+        "icon": "../images/twitter.png",
+        "url": "https://www.twitter.com"
+      }
+    ]
+  }
+},
+{
+  "id": "024",
+  "title": "Fresh Strawberry Juice 1L",
+  "category": {
+    "name": "Fruit Juice",
+    "slug": "fruit-juice",
+    "catimage": "../images/cate-juice.png",
+    "description": "Explore our refreshing selection of natural fruit juices. Made from real fruits with no added preservatives, our juices are perfect for a healthy lifestyle and delightful refreshment."
+  },
+  "rating": 4.4,
+  "shortDescription": "Sweet strawberry juice with a fruity punch.",
+  "longDescription": "Naturally sweet and rich in antioxidants, perfect as a daily refreshment or smoothie base.",
+  "quantity": 1,
+  "featured": false,
+  "color": "pink",
+  "tags": [
+    {
+      "name": "Strawberry Juice",
+      "slug": "024",
+      "tagImage": "../images/product24.png"
+    }
+  ],
+  "thumbnailImage": "../images/product24.png",
+  "gallery": [
+    "../images/straw1.jpg",
+    "../images/straw2.jpg",
+    "../images/straw3.jpg",
+    "../images/straw4.jpg",
+    "../images/straw5.jpg"
+  ],
+  "price": {
+    "regular": 130,
+    "sale": 115
+  },
+  "socialShare": {
+    "social": [
+      {
+        "title": "Facebook",
+        "icon": "../images/facebook.png",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "title": "LinkedIn",
+        "icon": "../images/linkedin.png",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "title": "Instagram",
+        "icon": "../images/insta.png",
+        "url": "https://www.instagram.com"
+      },
+      {
+        "title": "Twitter",
+        "icon": "../images/twitter.png",
+        "url": "https://www.twitter.com"
+      }
+    ]
+  }
+}
+  ]
+}

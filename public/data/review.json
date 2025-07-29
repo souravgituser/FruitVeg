@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "name": "ANJALI R.",
+      "image": "../images/user1.png",
+      "review": "The fruits were incredibly fresh and flavorful — like they were picked just hours before delivery.",
+      "rating": 5
+    },
+    {
+      "name": "RAVI S.",
+      "image": "../images/user2.png",
+      "review": "The fruits were incredibly fresh and juicy — way better than anything I’ve bought from the local market.",
+      "rating": 4
+    },
+    {
+      "name": "ANJALI R.",
+      "image": "../images/user3.png",
+      "review": "I loved how fresh everything was. Felt like it came straight from the farm.",
+      "rating": 5
+    },
+    {
+      "name": "PRIYA M.",
+      "image": "../images/user4.png",
+      "review": "I’ve been ordering regularly, and the produce always arrives on time and in great condition.",
+      "rating": 4
+    },
+    {
+      "name": "SUMIT K.",
+      "image": "../images/user1.png",
+      "review": "Fantastic quality and taste! You can tell they truly care about freshness.",
+      "rating": 5
+    },
+    {
+      "name": "NEHA P.",
+      "image": "../images/user2.png",
+      "review": "The produce was good but I expected a bit more variety. Still, quality was great.",
+      "rating": 3
+    },
+    {
+      "name": "ROHAN D.",
+      "image": "../images/user4.png",
+      "review": "The best fruits I’ve had delivered. Super convenient and super fresh.",
+      "rating": 5
+    },
+    {
+      "name": "MEERA S.",
+      "image": "../images/user2.png",
+      "review": "Always fresh, always delicious. This is my go-to for farm-fresh produce.",
+      "rating": 4
+    },
+    {
+      "name": "VIKAS T.",
+      "image": "../images/user3.png",
+      "review": "Delivery was on time, but the apples could have been a little sweeter.",
+      "rating": 3
+    },
+    {
+      "name": "DIVYA L.",
+      "image": "../images/user4.png",
+      "review": "Amazing service and top-notch freshness. Highly recommended!",
+      "rating": 5
+    }
+  ]
+}

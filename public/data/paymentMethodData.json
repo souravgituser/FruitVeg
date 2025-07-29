@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cod",
+    "name": "COD",
+    "description": "Cash on Delivery"
+  },
+  {
+    "id": "creditcard",
+    "name": "Credit Card",
+    "description": "Pay with credit card"
+  }
+]
