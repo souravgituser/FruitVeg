@@ -22,7 +22,6 @@ function shopCategories () {
     catimage: value.catimage
   }));
 
-  console.log(uniqueCategories);
     return (
         <section className="catediscount-sec">
       <div className="container">
@@ -33,8 +32,8 @@ function shopCategories () {
           </div>
         </div>
             <div className="grid-box">
-              {uniqueCategories?.map((category, index) => (
-                <div className={`g-col-6 ${index === 1 ? 'bg-red' : 'bg-green'}`} key={category?.id}>
+              {uniqueCategories?.slice(0, 2).map((category, index) => (
+                <div className={`g-col-6 ${index === 1 ? 'bg-red' : 'bg-green'}`} key={category?.slug}>
                   <div className="d-flex flex-wrap align-items-center">
                     <div className="col-xl-6 order-2 order-xl-1 text-white align-self-center">
                       <h3>{category?.name}</h3>

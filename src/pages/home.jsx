@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import { ToastContainer, toast } from 'react-toastify';
 import Banner from '../components/banner/Banner';
 
@@ -16,6 +16,8 @@ import Category from "../components/categories/Catego";
 
 const Home = () => {
         const [products, setProduct] = useState([]);
+        const sectionRef = useRef(null);
+
         useEffect(() => {
             fetch("/data/product.json") 
               .then((response) => response.json())
@@ -26,15 +28,19 @@ const Home = () => {
           console.log('products', products);
 
           const {addToCart} =  useContext(CartContext)
+
+          const handleScroll=() => {
+            sectionRef.current?.scrollIntoView({ behavior: 'smooth' });
+          }
           
 
     return (
         <>
-        <Banner/>
+        <Banner handleScroll={handleScroll} />
         <Category/>
         <Discount/>
 
-        <section className="sec-product">
+        <section className="sec-product" ref={sectionRef}>
             <div className="container">
                 <div className="row">
                 <div className="col-12 text-center">

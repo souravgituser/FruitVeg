@@ -1,11 +1,11 @@
 import aboutVeg from "../assets/about.jpg"
 function AboutUs () {
     return (
-        <section class="aboutSec">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <h2 class="titleText">About Us</h2>
+        <section className="aboutSec">
+  <div className="container">
+    <div className="row">
+      <div className="col-md-6">
+        <h2 className="titleText">About Us</h2>
         <p>Welcome to <strong>FruitVeg</strong> — Your trusted source for fresh fruits and vegetables.
           At FruitVeg, we don’t just deliver produce; we deliver health and happiness. Our mission is to make fresh, farm-to-table produce easily accessible to every household, every day.</p>
         
@@ -19,8 +19,8 @@ function AboutUs () {
         <p>We believe healthy eating starts with fresh ingredients. Our vision is to empower communities with easy access to fresh, nutritious produce, delivered straight to your doorstep. FruitVeg is your partner in creating wholesome meals for a better tomorrow.</p>
       </div>
       
-      <div class="col-md-6">
-        <img src={aboutVeg} class="img-fluid" alt="About FruitVeg"/>
+      <div className="col-md-6">
+        <img src={aboutVeg} className="img-fluid" alt="About FruitVeg"/>
       </div>
     </div>
   </div>
