@@ -156,7 +156,7 @@ function Product () {
                 </div>
                 <div className="row">
                   <div className="col-12">
-                    <ToastContainer />
+                    <ToastContainer position="bottom-right" toastClassName="custom-toast" progressClassName="custom-progress"/>
                     <ul className="d-flex ps-0 flex-wrap justify-content-between productWrap mt-2">
                       {singleProduct.slice(0, 4).map((product, index) => (
                         <Productcard key={index} onClick={()=> addToCart(product, toast)} id={product?.id} proTitle={product?.title} proImg={product?.thumbnailImage} proPrice={product?.price.sale} productBtn="ADD TO CART"/>
