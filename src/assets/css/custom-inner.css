@@ -758,6 +758,14 @@
 .order-table th, .order-table td {
 	color: #000000;
 }
+.thank-you-btn{
+	font-size: 1.4rem;
+    padding: 1rem 4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+	background-color: #00A819;
+	border-color: #00A819;
+}
 
 @media(max-width: 1799px) {
 	.productlistingWrap {

@@ -1,7 +1,7 @@
 import React from 'react'
 import checkRemove from "../assets/delred.png"
 
-const CartItems = ({cartItem}) => {
+const CartItems = ({cartItem, handleDeleteItem}) => {
     const {title, thumbnailImage, price, quantity} = cartItem || [];
     const {sale} = price || [];
   return (
@@ -14,7 +14,7 @@ const CartItems = ({cartItem}) => {
                 <div className="checkproName">
                 {title} x {quantity}
                 </div>
-                <div className="remove">
+                <div className="remove" onClick={handleDeleteItem}>
                     <img src={checkRemove} className="img-fluid" alt="Delete"/>
                 </div>
             </div>

@@ -84,8 +84,8 @@ function ThankYou () {
                             </tbody>
                         </table>
                     </div>
-                    <div className="col-12 text-end mb-md-0b">
-                        <button type="submit" className="btn btn-primary shopping_btn" onClick={handleContinueShop}>CONTINUE SHOPPING</button>
+                    <div className="col-12 text-center mb-md-0 ">
+                        <button type="submit" className="btn btn-success thank-you-btn rounded-pill" onClick={handleContinueShop}>CONTINUE SHOPPING</button>
                     </div>
                 </div>
             </div>
