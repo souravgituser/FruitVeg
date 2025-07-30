@@ -34,20 +34,20 @@ function ThankYou () {
     navigate('/productlisting');
   }
     return (
-        <section class="thankSection">
-            <div class="container bg-white thankRound border">
-                <div class="row">
-                    <div class="col-12">
-                        <h2 class="titleText text-center">Thank You of Your Order</h2>
+        <section className="thankSection">
+            <div className="container bg-white thankRound border">
+                <div className="row">
+                    <div className="col-12">
+                        <h2 className="titleText text-center">Thank You of Your Order</h2>
                         <p>We’ve received your order and it’s currently being processed. A confirmation email with your order details has been sent to your inbox.<br/>
                         You’ll receive another update once your items are on their way.<br/>
                         Need help or have questions? <a href="#">Contact our support team.</a><br/>
                         Thank you for shopping with us!
                         </p>
                     </div>
-                    <div class="col-12 thankyouDetails">
-                        <h3 class="text-center">Order Information</h3>
-                        <table class="table order-table">
+                    <div className="col-12 thankyouDetails">
+                        <h3 className="text-center">Order Information</h3>
+                        <table className="table order-table">
                             <tbody>
                                 <tr>
                                     <th>Order Id:</th>
@@ -78,14 +78,14 @@ function ThankYou () {
                                     <td>Rs. 0.00</td>
                                 </tr>
                                 <tr>
-                                    <th class="total-price-text">Total Price:</th>
-                                    <td class="total-price">Rs. <span>{totalPrice.toFixed(2)}</span></td>
+                                    <th className="total-price-text">Total Price:</th>
+                                    <td className="total-price">Rs. <span>{totalPrice.toFixed(2)}</span></td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
                     <div className="col-12 text-center mb-md-0 ">
-                        <button type="submit" className="btn btn-success thank-you-btn rounded-pill" onClick={handleContinueShop}>CONTINUE SHOPPING</button>
+                        <button type="submit" className="btn btn-success thank-you-btn  rounded-pill" onClick={handleContinueShop}>CONTINUE SHOPPING</button>
                     </div>
                 </div>
             </div>
