@@ -98,7 +98,7 @@ function Cart() {
           )}
 
           {getCartCount === 0 ? (
-            <div class="alert alert-danger" role="alert">
+            <div className="alert alert-danger" role="alert">
               Your Cart is empty!
             </div>
           ) : cart.map((item) => (
