@@ -1384,6 +1384,10 @@
 	.thankSection {
 		background-image: none;
 	}
+	.sliderCol {
+		padding-left: 0;
+		padding-right: 0;
+	}
 }
 
 @media (max-width: 640px) {
