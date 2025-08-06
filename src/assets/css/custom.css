@@ -30,6 +30,9 @@ body {
 	justify-content: center;
 	margin-right: 1.3rem;
 }
+.iconwrap li a, .iconwrap li button {
+	padding: 1.25rem;
+}
 .iconwrap li:last-child {
 	margin-right: 0;
 }
@@ -913,6 +916,9 @@ footer .copyText p {
 		width: 4rem;
 		height: 4rem;
 		margin-right: .75rem;
+	}
+	.iconwrap li a, .iconwrap li button {
+		padding: .75rem;
 	}
 	.appIcon {
 		width: 4rem;

@@ -1060,8 +1060,8 @@
         font-size: 1.75rem;
     }
 	.qtyBox select {
-		width: 155px;
-		height: 45px;
+		width: 100px;
+		height: 40px;
 		font-size: 1.4rem;
 	}
 	.returnText p, .sortDes, .descriptionContainer .tab-content .tab-pane p {
@@ -1153,7 +1153,12 @@
 	}
 	
 	.btn-wrap .btn {
-		height: 4.5rem;
+		height: 4rem;
+		margin-left: 1rem;
+	}
+	.btn-wrap {
+		width: 100%;
+		max-width: 270px;
 	}
 	.productSec h1 {
 		margin-top: 1rem;
@@ -1391,5 +1396,10 @@
 	}
 	.checkoutBtn .btn {
 		width: 100%;
+	}
+}
+@media (max-width: 480px) {
+	.btn-wrap {
+		max-width: 100%;
 	}
 }
